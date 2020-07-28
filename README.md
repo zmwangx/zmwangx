@@ -1,0 +1,3 @@
+I could use some help maintaining the [ffmpeg-next](https://crates.io/crates/ffmpeg-next) crate ([repo](https://github.com/zmwangx/rust-ffmpeg)👇️) &mdash; implementing new interfaces as necessary, adding examples, improving docs, answering questions on the tracker, etc. If you're interested, you can dive right in with PRs and/or Wiki contributions, or you can get in touch with me, I'll be more than happy to add you as a collaborator if you have demonstrable experience in Rust and multimedia-related programming.🤝
+
+<a href="https://github.com/zmwangx/rust-ffmpeg" tartet="_blank"><img width="288" src="https://zmwangx.github.io/repocards/rust-ffmpeg.png"></a>
